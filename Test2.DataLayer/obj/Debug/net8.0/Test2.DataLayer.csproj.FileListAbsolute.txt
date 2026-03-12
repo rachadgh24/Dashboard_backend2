@@ -1,0 +1,14 @@
+C:\Users\LENOVO.CC\source\repos\Test2.DataLayer\obj\Debug\net8.0\Test2.DataLayer.csproj.AssemblyReference.cache
+C:\Users\LENOVO.CC\source\repos\Test2.DataLayer\obj\Debug\net8.0\Test2.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO.CC\source\repos\Test2.DataLayer\obj\Debug\net8.0\Test2.DataLayer.AssemblyInfoInputs.cache
+C:\Users\LENOVO.CC\source\repos\Test2.DataLayer\obj\Debug\net8.0\Test2.DataLayer.AssemblyInfo.cs
+C:\Users\LENOVO.CC\source\repos\Test2.DataLayer\obj\Debug\net8.0\Test2.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO.CC\source\repos\Test2.DataLayer\bin\Debug\net8.0\Test2.DataLayer.deps.json
+C:\Users\LENOVO.CC\source\repos\Test2.DataLayer\bin\Debug\net8.0\Test2.DataLayer.runtimeconfig.json
+C:\Users\LENOVO.CC\source\repos\Test2.DataLayer\bin\Debug\net8.0\Test2.DataLayer.dll
+C:\Users\LENOVO.CC\source\repos\Test2.DataLayer\bin\Debug\net8.0\Test2.DataLayer.pdb
+C:\Users\LENOVO.CC\source\repos\Test2.DataLayer\obj\Debug\net8.0\Test2.DataLayer.dll
+C:\Users\LENOVO.CC\source\repos\Test2.DataLayer\obj\Debug\net8.0\refint\Test2.DataLayer.dll
+C:\Users\LENOVO.CC\source\repos\Test2.DataLayer\obj\Debug\net8.0\Test2.DataLayer.pdb
+C:\Users\LENOVO.CC\source\repos\Test2.DataLayer\obj\Debug\net8.0\Test2.DataLayer.genruntimeconfig.cache
+C:\Users\LENOVO.CC\source\repos\Test2.DataLayer\obj\Debug\net8.0\ref\Test2.DataLayer.dll

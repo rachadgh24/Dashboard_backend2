@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../Test2"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Test2.DataLayer"
+		}
+	],
+	"settings": {}
+}

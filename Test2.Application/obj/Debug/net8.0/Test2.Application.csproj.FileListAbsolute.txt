@@ -1,0 +1,15 @@
+C:\Users\LENOVO.CC\source\repos\Test2.Application\bin\Debug\net8.0\Test2.Application.deps.json
+C:\Users\LENOVO.CC\source\repos\Test2.Application\bin\Debug\net8.0\Test2.Application.dll
+C:\Users\LENOVO.CC\source\repos\Test2.Application\bin\Debug\net8.0\Test2.Application.pdb
+C:\Users\LENOVO.CC\source\repos\Test2.Application\obj\Debug\net8.0\Test2.Application.csproj.AssemblyReference.cache
+C:\Users\LENOVO.CC\source\repos\Test2.Application\obj\Debug\net8.0\Test2.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO.CC\source\repos\Test2.Application\obj\Debug\net8.0\Test2.Application.AssemblyInfoInputs.cache
+C:\Users\LENOVO.CC\source\repos\Test2.Application\obj\Debug\net8.0\Test2.Application.AssemblyInfo.cs
+C:\Users\LENOVO.CC\source\repos\Test2.Application\obj\Debug\net8.0\Test2.Application.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO.CC\source\repos\Test2.Application\obj\Debug\net8.0\Test2.Application.dll
+C:\Users\LENOVO.CC\source\repos\Test2.Application\obj\Debug\net8.0\refint\Test2.Application.dll
+C:\Users\LENOVO.CC\source\repos\Test2.Application\obj\Debug\net8.0\Test2.Application.pdb
+C:\Users\LENOVO.CC\source\repos\Test2.Application\obj\Debug\net8.0\ref\Test2.Application.dll
+C:\Users\LENOVO.CC\source\repos\Test2.Application\bin\Debug\net8.0\Test2.DataLayer.dll
+C:\Users\LENOVO.CC\source\repos\Test2.Application\bin\Debug\net8.0\Test2.DataLayer.pdb
+C:\Users\LENOVO.CC\source\repos\Test2.Application\obj\Debug\net8.0\Test2.Ap.AFA69AD9.Up2Date
